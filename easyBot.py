@@ -1,9 +1,10 @@
 try:
     from selenium import webdriver
-
+    pass
 
 except:
     print("error try pip install selenium")
+    raise
 
 
 
